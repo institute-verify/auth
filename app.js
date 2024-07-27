@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function() {
         
             // Redirect to home page after a delay (e.g., 2 seconds)
             setTimeout(function() {
-                window.location.href = "Verify.html"; // Replace "home.html" with your home page URL
+                window.location.href = "verify.html"; // Replace "home.html" with your home page URL
             }, 2000)
         }else{
             alert('Password can\'t be empty')
